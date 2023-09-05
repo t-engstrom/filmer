@@ -1,7 +1,45 @@
+/* Huvudrubrik lila*/
 h1 {
     color: blueviolet;
+    text-align: center;
+    font-size: 65px;
 }
+/* underrubrik 2*/
+.underr {
+    text-align: center;
+    color: darkorchid;
+    font-family: Impact;
+}
+/* Underrubrik, lila bakgrund och vit text*/
 h3 {
     background-color: blueviolet;
     color: white;
+    text-align: center;
+}
+/* intro till filmerna*/
+.intro{
+    font-size: medium;
+    font-family: helvetica;
+    color: darkorchid;
+    text-decoration: underline purple;
+    text-align: center;
+}
+/* Lista*/
+.lista {
+background-color: beige;
+}
+p {
+    font-style: oblique;
+}
+#harrypotter{
+    background-color: darkcyan;
+    color: white;
+}
+#twilight{
+    background-color: lightskyblue;
+    color: darkred;
+}
+#sagan{
+    background-color: darkgreen;
+    color: gold;
 }
